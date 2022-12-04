@@ -1,6 +1,8 @@
-- 👋 Olá, eu sou o Gian, trabalho como programador front-end desde 2015
-- 👀 Tenho interesses pelas áreas de UX, front-end, ecossistema JavaScript e pela área de negócios, em particular o mercado financeiro
-- 🌱 Atualmente também atuo como tutor e professor do curso de front-end da EBAC (Escola Britância de Artes Criativas) e sou engenheiro de software na XP Inc.
+👋 Olá, eu sou o Gian, trabalho como programador front-end desde 2015
+👀 Tenho interesses pelas áreas de UX, front-end, ecossistema JavaScript 
+  e pela área de negócios, em particular o mercado financeiro
+🌱 Atualmente também atuo como tutor e professor do curso de front-end da EBAC (Escola Britância de Artes Criativas)
+e sou engenheiro de software na XP Inc.
 
 <!---
 ogiansouza/ogiansouza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

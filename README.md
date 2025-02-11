@@ -3,8 +3,7 @@
 👀 Tenho interesses pelas áreas de UX, front-end, ecossistema JavaScript 
   e pela área de negócios, em particular o mercado financeiro
 
-🌱 Atualmente também atuo como tutor e professor do curso de front-end da EBAC (Escola Britância de Artes Criativas)
-e sou engenheiro de software na XP Inc.
+🌱 Atualmente também atuo como engenheiro de software na XP Inc.
 
 <!---
 ogiansouza/ogiansouza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
